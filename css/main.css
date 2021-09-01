@@ -1,0 +1,40 @@
+body {
+  background-image: url("../images/blackjack-black-tiny.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #a79bda;
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times,
+    "Times New Roman", serif;
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+}
+
+h1 {
+  color: #d9b329;
+}
+
+button,
+input {
+  font-weight: bold;
+}
+
+button {
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #d9b329;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+input {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #df677f;
+  border: none;
+}
